@@ -1,3 +1,4 @@
+#my while loop
 n=10
 while [ n -le 10 ]
 echo n;
